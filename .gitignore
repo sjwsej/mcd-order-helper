@@ -1,0 +1,9 @@
+# 缓存与字节码
+.cache/
+__pycache__/
+*.pyc
+
+# 本地临时产物
+out/
+result.json
+*.local.json
